@@ -1,0 +1,51 @@
+{
+  "data": [{
+      "image": "https://picsum.photos/200/300/?random",
+      "latitude": "12.929327618",
+      "longitude": "77.684214897",
+      "title": "Yulu 1"
+    },
+    {
+      "image": "https://picsum.photos/200/300/?random",
+      "latitude": "12.929163598",
+      "longitude": "77.685027434",
+      "title": "Yulu 2"
+    },
+    {
+      "image": "https://picsum.photos/200/300/?random",
+      "latitude": "12.92542",
+      "longitude": "77.68684",
+      "title": "Yulu 3"
+    },
+    {
+      "image": "https://picsum.photos/200/300/?random",
+      "latitude": "12.92236",
+      "longitude": "77.68505",
+      "title": "Yulu 4"
+    },
+    {
+      "image": "https://picsum.photos/200/300/?random",
+      "latitude": "12.92083",
+      "longitude": "77.68542",
+      "title": "Yulu 5"
+    },
+    {
+      "image": "https://picsum.photos/200/300/?random",
+      "latitude": "12.91949",
+      "longitude": "77.68555",
+      "title": "Yulu 6"
+    },
+    {
+      "image": "https://picsum.photos/200/300/?random",
+      "latitude": "12.91942",
+      "longitude": "77.68516",
+      "title": "Yulu 7"
+    },
+    {
+      "image": "https://picsum.photos/200/300/?random",
+      "latitude": "12.942466005",
+      "longitude": "77.69511102",
+      "title": "Yulu 8"
+    }
+  ]
+}
